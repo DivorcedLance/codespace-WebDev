@@ -63,11 +63,11 @@
     "command": "github.copilot.generate",
     "when": "editorTextFocus && github.copilot.activated"
   },
-  // {
-  //   "key": "ctrl+enter",
-  //   "command": "-github.copilot.generate",
-  //   "when": "editorTextFocus && github.copilot.activated"
-  // },
+  {
+    "key": "ctrl+enter",
+    "command": "-github.copilot.generate",
+    "when": "editorTextFocus && github.copilot.activated"
+  },
   {
     "key": "ctrl+shift+a",
     "command": "workbench.view.extension.copilot-labs"
