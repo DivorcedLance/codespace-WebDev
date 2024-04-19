@@ -22,7 +22,11 @@
                 "SimonSiefke.svg-preview",
                 "bradlc.vscode-tailwindcss",
                 "rangav.vscode-thunder-client",
-                "PKief.material-icon-theme"
+                "PKief.material-icon-theme",
+                "prisma.prisma",
+                "pnp.polacode",
+                "shd101wyy.markdown-preview-enhanced",
+                "astro-build.astro-vscode"
             ],
             "settings": {
                 "editor.rulers": [79],
